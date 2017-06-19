@@ -19,6 +19,6 @@
 
 [移动端 Scroll Event 思考](https://github.com/pfan123/code-snippet/issues/9)
 
-[Blob对象 help wanted](https://github.com/pfan123/code-snippet/issues/10)
+[Blob对象](https://github.com/pfan123/code-snippet/issues/10)
 
 [浏览器缓存知识](https://github.com/pfan123/code-snippet/issues/11)
