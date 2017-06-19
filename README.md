@@ -1,5 +1,6 @@
 # code-snippet
 分析记录一些问题……
+
 [JavaScript 事件委托代码片段 question](https://github.com/pfan123/code-snippet/issues/1)
 
 [vue2.0 render函数介绍中 Array.apply(null, { length: 20 }) 引起思考](https://github.com/pfan123/code-snippet/issues/2)
