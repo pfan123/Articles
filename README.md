@@ -1,6 +1,8 @@
 # code-snippet
 分析记录一些问题……
 
+[译文： Prefetching, preloading, prebrowsing](https://github.com/pfan123/code-snippet/issues/14)
+
 [COOKIE与SESSION知识](https://github.com/pfan123/code-snippet/issues/13)
 
 [JavaScript 中 for in 循环和数组的问题](https://github.com/pfan123/code-snippet/issues/12)
