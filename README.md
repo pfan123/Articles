@@ -1,6 +1,8 @@
 # code-snippet
 分析记录一些问题……
 
+[EventEmitter 理解](https://github.com/pfan123/code-snippet/issues/16)
+
 [chrome使用技巧集锦](https://github.com/pfan123/code-snippet/issues/15)
 
 [译文： Prefetching, preloading, prebrowsing](https://github.com/pfan123/code-snippet/issues/14)
