@@ -1,6 +1,10 @@
 # Articles
 分析记录一些问题……
 
+[Cairo 二维矢量图形库](https://github.com/pfan123/Articles/issues/34)
+
+[前端数据缓存方案](https://github.com/pfan123/Articles/issues/33)
+
 [JSON-RPC 2.0 规范(中文版转载) ](https://github.com/pfan123/code-snippet/issues/32)
 
 [用 GitLab CI 进行持续集成](https://github.com/pfan123/code-snippet/issues/31)
