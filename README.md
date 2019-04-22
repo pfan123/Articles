@@ -1,6 +1,12 @@
 # Articles
 分析记录一些问题……
 
+[字符编码 ASCII、URI 、UNICODE、Base64](https://github.com/pfan123/Articles/issues/37)
+
+[JavaScript的垃圾回收机制](https://github.com/pfan123/Articles/issues/36)
+
+[JavaScript 浮点数运算的精度问题](https://github.com/pfan123/Articles/issues/35)
+
 [Cairo 二维矢量图形库](https://github.com/pfan123/Articles/issues/34)
 
 [前端数据缓存方案](https://github.com/pfan123/Articles/issues/33)
