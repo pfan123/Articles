@@ -1,6 +1,8 @@
 # Articles
 分析记录一些问题……
 
+[[转载] 2018 来谈谈 Web Component](https://github.com/pfan123/Articles/issues/38)
+
 [字符编码 ASCII、URI 、UNICODE、Base64](https://github.com/pfan123/Articles/issues/37)
 
 [JavaScript的垃圾回收机制](https://github.com/pfan123/Articles/issues/36)
