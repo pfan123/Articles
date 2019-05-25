@@ -1,6 +1,8 @@
 # Articles
 分析记录一些问题……
 
+[JavaScript 错误处理机制](https://github.com/pfan123/Articles/issues/39)
+
 [[转载] 2018 来谈谈 Web Component](https://github.com/pfan123/Articles/issues/38)
 
 [字符编码 ASCII、URI 、UNICODE、Base64](https://github.com/pfan123/Articles/issues/37)
