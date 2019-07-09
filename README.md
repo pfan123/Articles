@@ -2,6 +2,8 @@
 
 分析记录一些问题……
 
+[Python 版本管理](https://github.com/pfan123/Articles/issues/42)
+
 [开篇 Serverless（无服务）基础知识](https://github.com/pfan123/Articles/issues/41)
 
 [MongoDB 提升性能的18原则](https://github.com/pfan123/Articles/issues/40)
