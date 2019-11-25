@@ -2,6 +2,8 @@
 
 分析记录一些问题……
 
+[如何避免 JavaScript 长递归导致的堆栈溢出？](https://github.com/pfan123/Articles/issues/50)
+
 [前端大文件上传](https://github.com/pfan123/Articles/issues/49)
 
 [Sketch 插件开发实践](https://github.com/pfan123/Articles/issues/48)
