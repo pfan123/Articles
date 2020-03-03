@@ -10,8 +10,6 @@
 
 ### |  Javascript
 
-[React Hooks](https://github.com/pfan123/Articles/issues/51)
-
 [如何避免 JavaScript 长递归导致的堆栈溢出？](https://github.com/pfan123/Articles/issues/50)
 
 [前端大文件上传](https://github.com/pfan123/Articles/issues/49)
@@ -69,6 +67,8 @@
 [Cairo 二维矢量图形库](https://github.com/pfan123/Articles/issues/34)
 
 ### |  模块框架
+
+[React Hooks](https://github.com/pfan123/Articles/issues/51)
 
 [React学习：状态(State) 和 属性(Props)](https://github.com/pfan123/code-snippet/issues/29)
 
