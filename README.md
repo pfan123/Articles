@@ -62,6 +62,8 @@
 
 [CSS 中矩阵变换 matrix()、matrix3d()](https://github.com/pfan123/Articles/issues/45)
 
+[聊聊 SVG 基本形状转换那些事](https://aotu.io/notes/2017/01/16/base-shapes-to-path/)
+
 [SVG坐标系和变换](https://github.com/pfan123/Articles/issues/44)
 
 [Cairo 二维矢量图形库](https://github.com/pfan123/Articles/issues/34)
