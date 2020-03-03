@@ -16,8 +16,6 @@
 
 [前端大文件上传](https://github.com/pfan123/Articles/issues/49)
 
-[Sketch 插件开发实践](https://github.com/pfan123/Articles/issues/48)
-
 [JavaScript 错误处理机制](https://github.com/pfan123/Articles/issues/39)
 
 [[转载] 2018 来谈谈 Web Component](https://github.com/pfan123/Articles/issues/38)
@@ -58,6 +56,10 @@
 
 [eval()与new Function()](https://github.com/pfan123/code-snippet/issues/6)
 
+### |  多端开发
+
+[Sketch 插件开发实践](https://github.com/pfan123/Articles/issues/48)
+
 ### |  图形变换
 
 [CSS 中矩阵变换 matrix()、matrix3d()](https://github.com/pfan123/Articles/issues/45)
@@ -66,7 +68,7 @@
 
 [Cairo 二维矢量图形库](https://github.com/pfan123/Articles/issues/34)
 
-### |  框架模块
+### |  模块框架
 
 [React学习：状态(State) 和 属性(Props)](https://github.com/pfan123/code-snippet/issues/29)
 
