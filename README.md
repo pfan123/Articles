@@ -83,6 +83,7 @@
 ### |  算法
 
 [十大排序排序算法](https://github.com/pfan123/code-snippet/issues/19)
+[算法(algorithms)](https://github.com/pfan123/algorithms)
 
 ### |  数据库
 
@@ -91,6 +92,8 @@
 [MongoDB 提升性能的18原则](https://github.com/pfan123/Articles/issues/40)
 
 ### |  服务端
+
+[HTTP3](https://github.com/pfan123/Articles/issues/53)
 
 [JSON-RPC 2.0 规范(中文版转载) ](https://github.com/pfan123/code-snippet/issues/32)
 
