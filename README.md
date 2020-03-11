@@ -8,6 +8,8 @@
 
 [浏览器缓存知识](https://github.com/pfan123/code-snippet/issues/11)
 
+[H5直播起航](https://aotu.io/notes/2016/10/09/HTML5-SopCast/)
+
 ### |  Javascript
 
 [如何避免 JavaScript 长递归导致的堆栈溢出？](https://github.com/pfan123/Articles/issues/50)
