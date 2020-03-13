@@ -100,7 +100,7 @@
 
 [HSTS详解](https://github.com/pfan123/code-snippet/issues/21)
 
-[https传输协议加密原理分析](https://github.com/pfan123/Articles/issues/55)
+[HTTPS 传输协议加密原理分析](https://github.com/pfan123/Articles/issues/55)
 
 ### |  服务端
 
