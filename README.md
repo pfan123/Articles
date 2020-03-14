@@ -10,6 +10,14 @@
 
 [H5直播起航](https://aotu.io/notes/2016/10/09/HTML5-SopCast/)
 
+### JavaScript 内存机制 
+
+[Node.js 内存管理和 V8 垃圾回收机制](https://github.com/pfan123/Articles/issues/56)
+
+[JavaScript的垃圾回收机制](https://github.com/pfan123/Articles/issues/36)
+
+[JavaScript 内存机制](https://github.com/pfan123/code-snippet/issues/23)
+
 ### |  Javascript
 
 [如何避免 JavaScript 长递归导致的堆栈溢出？](https://github.com/pfan123/Articles/issues/50)
@@ -27,10 +35,6 @@
 [前端数据缓存方案](https://github.com/pfan123/Articles/issues/33)
 
 [HTTP请求中的Form Data与Request Payload的区别 ](https://github.com/pfan123/code-snippet/issues/25)
-
-[JavaScript的垃圾回收机制](https://github.com/pfan123/Articles/issues/36)
-
-[JavaScript 内存机制](https://github.com/pfan123/code-snippet/issues/23)
 
 [Service Worker理解使用 ](https://github.com/pfan123/code-snippet/issues/17)
 
