@@ -10,14 +10,6 @@
 
 [H5直播起航](https://aotu.io/notes/2016/10/09/HTML5-SopCast/)
 
-### JavaScript 内存机制 
-
-[Node.js 内存管理和 V8 垃圾回收机制](https://github.com/pfan123/Articles/issues/56)
-
-[JavaScript的垃圾回收机制](https://github.com/pfan123/Articles/issues/36)
-
-[JavaScript 内存机制](https://github.com/pfan123/code-snippet/issues/23)
-
 ### |  Javascript
 
 [如何避免 JavaScript 长递归导致的堆栈溢出？](https://github.com/pfan123/Articles/issues/50)
@@ -59,6 +51,14 @@
 [JavaScript 事件委托代码片段 question](https://github.com/pfan123/code-snippet/issues/1)
 
 [eval()与new Function()](https://github.com/pfan123/code-snippet/issues/6)
+
+### JavaScript 内存机制 
+
+[Node.js 内存管理和 V8 垃圾回收机制](https://github.com/pfan123/Articles/issues/56)
+
+[JavaScript的垃圾回收机制](https://github.com/pfan123/Articles/issues/36)
+
+[JavaScript 内存机制](https://github.com/pfan123/code-snippet/issues/23)
 
 ### |  多端开发
 
