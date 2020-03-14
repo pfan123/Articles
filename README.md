@@ -22,13 +22,13 @@
 
 [字符编码 ASCII、URI 、UNICODE、Base64](https://github.com/pfan123/Articles/issues/37)
 
-[JavaScript的垃圾回收机制](https://github.com/pfan123/Articles/issues/36)
-
 [JavaScript 浮点数运算的精度问题](https://github.com/pfan123/Articles/issues/35)
 
 [前端数据缓存方案](https://github.com/pfan123/Articles/issues/33)
 
 [HTTP请求中的Form Data与Request Payload的区别 ](https://github.com/pfan123/code-snippet/issues/25)
+
+[JavaScript的垃圾回收机制](https://github.com/pfan123/Articles/issues/36)
 
 [JavaScript 内存机制](https://github.com/pfan123/code-snippet/issues/23)
 
