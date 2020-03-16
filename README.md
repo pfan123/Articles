@@ -54,7 +54,7 @@
 
 [eval()与new Function()](https://github.com/pfan123/code-snippet/issues/6)
 
-### JavaScript 内存机制 
+### |  JavaScript 内存机制 
 
 [Node.js 内存管理和 V8 垃圾回收机制](https://github.com/pfan123/Articles/issues/56)
 
