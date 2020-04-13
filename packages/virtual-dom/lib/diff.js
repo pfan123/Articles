@@ -59,12 +59,12 @@ function dftWalk(lastVNode, newVNode, index, patches) {
         patches,
       )
     } else {
-      currentPatch.push({ type: patch.REPLACE, node: newNode })
+      currentPatch.push({ type: patch.REPLACE, node: newVNode })
     }
 
   // Nodes are not the same
   } else {
-    currentPatch.push({ type: patch.REPLACE, node: newNode })
+    currentPatch.push({ type: patch.REPLACE, node: newVNode })
   }
 
   if (currentPatch.length) {
@@ -87,7 +87,7 @@ function diffChildren (lastChildren, newChildren, apply, index, patches) {
       dftWalk(lastChildren[i], newChildren[i], ++index, patches)
     }
   }
-
+  console.error('orderedSet.moves', orderedSet.moves)
   if (orderedSet.moves) {
     apply.push(orderedSet)
   }
@@ -153,12 +153,12 @@ function reorder(lastChildren, newChildren) {
 
   // simulate list to manipulate
   const children = []
-  const freeIndex = 0
+  let freeIndex = 0
 
-  for (const i = 0 ; i < lastChildren.length; i++) {
+  for (let i = 0 ; i < lastChildren.length; i++) {
     const item = lastChildren[i]
     if(item.key){
-      if(newKeys.hasOwnProperty(key)){
+      if(newKeys.hasOwnProperty('key')){
         const itemIndex = newKeys[item.key]
         children.push(newChildren[itemIndex])
       } else {
@@ -179,20 +179,20 @@ function reorder(lastChildren, newChildren) {
   // remove  value is null and  no key property
   while (j < simulate.length) {
     if (simulate[j] === null || !simulate[j].hasOwnProperty('key')) {
-      const patch = remove(j)
+      const patch = remove(simulate, j)
       removes.push(patch)
     } else {
       j++
     }
   }
 
-
-  for (const i = 0 ; i < newChildren.length; i++) {
+  console.error('simulate', simulate)
+  for (let i = 0 ; i < newChildren.length; i++) {
     const wantedItem = newChildren[i]
     const simulateItem = simulate[i]
 
     if(wantedItem.key){
-      if(wantedItem.key !== simulateItem.key){
+      if(simulateItem && wantedItem.key !== simulateItem.key){
         // key property is not equal, insert, simulateItem add placeholder
         inserts.push({
           type: patch.INSERT,
@@ -208,7 +208,7 @@ function reorder(lastChildren, newChildren) {
         index: i,
         node: wantedItem,
       })
-      simulateItem.splice(i, 1)
+      simulateItem && simulateItem.splice(i, 1)
     }
   }
 
@@ -221,7 +221,7 @@ function reorder(lastChildren, newChildren) {
   }
 }
 
-function remove(arr, index, key) {
+function remove(arr, index) {
   arr.splice(index, 1)
 
   return {

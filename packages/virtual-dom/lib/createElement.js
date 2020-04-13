@@ -1,10 +1,15 @@
 // virtual-dom
-function createElement(tagName, props, ...children) {
-  return {
+function createElement(tagName, props = {}, ...children) {
+  let vnode = {}
+  if(props.hasOwnProperty('key')){
+    vnode.key = props.key
+    delete props.key
+  }
+  return Object.assign(vnode, {
     tagName,
     props,
     children,
-  }
+  })
 }
 
 function addElement () {
