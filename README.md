@@ -80,6 +80,8 @@
 
 ### |  模块框架
 
+[React 核心知识点 -- Virtual Dom 与 Diff](https://github.com/pfan123/Articles/issues/62)
+
 [React Hooks](https://github.com/pfan123/Articles/issues/51)
 
 [React学习：状态(State) 和 属性(Props)](https://github.com/pfan123/code-snippet/issues/29)
