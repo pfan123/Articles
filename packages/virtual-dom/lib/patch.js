@@ -1,4 +1,5 @@
 const patch = require('./vpatch.js')
+const render = require('./render.js')
 
 /**
  * 真实的 Dom 打补钉
@@ -17,7 +18,7 @@ function patch (rootNode, patches) {
  * @param {*} patches
  */
 function dftWalk (node, walker, patches) {
-  const currentPatches = patches[walker.index]
+  const currentPatches = patches[walker.index] || {}
   node.childNodes && node.childNodes.forEach(child => {
     walker.index++
     dftWalk(child, walker, patches)
@@ -36,7 +37,7 @@ function applyPatches (node, currentPatches) {
         break
       case patch.REPLACE:
         const newNode = currentPatch.node
-        node.parentNode.replaceChild(newNode, node)
+        node.parentNode.replaceChild(render(newNode), node)
         break
       case patch.TEXT:
         node.textContent = currentPatch.text
@@ -48,7 +49,10 @@ function applyPatches (node, currentPatches) {
       case patch.INSERT:
         // parentNode.insertBefore(newNode, referenceNode)
         const newNode = currentPatch.node
-        node.appendChild(newNode)
+        node.appendChild(render(newNode))
+        break
+      case patch.REORDER:
+        reorderChildren(node, currentPatch.moves)
         break
     }
   })
@@ -69,5 +73,23 @@ function setProps (node, props) {
       const value = props[key]
       node.setAttribute(key, value)
     }
+  }
+}
+
+/**
+ * reorderChildren 处理 list diff render
+ * @param {*} domNode
+ * @param {*} moves
+ */
+function reorderChildren(domNode, moves) {
+  for (const i = 0; i < moves.removes.length; i++) {
+    const { index } = moves.removes[i]
+    const node = domNode.childNodes[index]
+    domNode.removeChild(node)
+  }
+
+  for (const j = 0; j < moves.inserts.length; j++) {
+    const { index, node } = moves.inserts[j]
+    domNode.insertBefore(node, index === domNode.childNodes.length ? null : childNodes[index])
   }
 }
