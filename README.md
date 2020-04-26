@@ -142,7 +142,7 @@
 
 [git commit message 中使用 emoji](https://github.com/pfan123/code-snippet/issues/22)
 
-[Mac 每次都要执行source ~/.bash_profile 配置的环境变量才生效](https://github.com/pfan123/code-snippet/issues/27)
+[Mac 实用技巧](https://github.com/pfan123/code-snippet/issues/27)
 
 [Sublime Snippet 代码段](https://github.com/pfan123/code-snippet/issues/20)
 
