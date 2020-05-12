@@ -2,6 +2,8 @@
 
 工作生活点滴，记录总结经验留存，力求完善，在路上~~
 
+[前端开发工作流](https://github.com/pfan123/Articles/issues/65)
+
 ### |  浏览器相关
 
 [COOKIE与SESSION知识](https://github.com/pfan123/code-snippet/issues/13)
@@ -134,7 +136,9 @@
 
 [Web服务高并发与性能调试](https://github.com/pfan123/Articles/issues/58)
 
-### |  工具
+### |  方法论与工具
+
+[VS Code 项目配置路径别名跳转](https://github.com/pfan123/Articles/issues/66)
 
 [npx 是什么](https://github.com/pfan123/code-snippet/issues/28)
 
