@@ -138,6 +138,8 @@
 
 ### |  方法论与工具
 
+[iOS 模拟器调试](https://github.com/pfan123/Articles/issues/67)
+
 [VS Code 项目配置路径别名跳转](https://github.com/pfan123/Articles/issues/66)
 
 [npx 是什么](https://github.com/pfan123/code-snippet/issues/28)
