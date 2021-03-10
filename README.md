@@ -92,7 +92,7 @@
 
 [React学习：状态(State) 和 属性(Props)](https://github.com/pfan123/code-snippet/issues/29)
 
-[React 错误边界（Error Boundaries）](https://github.com/pfan123/Articles/issues)
+[React 错误边界（Error Boundaries）](https://github.com/pfan123/Articles/issues/79)
 
 [Vue实现原理](https://github.com/pfan123/Articles/issues/63)
 
@@ -150,6 +150,7 @@
 
 [CDN 回源与CDN 多级缓存原理](https://github.com/pfan123/Articles/issues/77)
 
+[CDN 带宽与上传下载速率关系？](https://github.com/pfan123/Articles/issues/81)
 ### |  方法论与工具
 
 [lerna 和 yarn workspace 的 monorepo 工作流](https://github.com/pfan123/Articles/issues/73)
