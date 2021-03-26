@@ -126,7 +126,7 @@
 
 ### |  服务端
 
-[Node.js 同步异步、阻塞与非阻塞](https://github.com/pfan123/Articles/issues)
+[Node.js 同步异步、阻塞与非阻塞](https://github.com/pfan123/Articles/issues/69)
 
 [理解Node.js 中的进程与线程 -- 转载](https://github.com/pfan123/Articles/issues/59)
 
@@ -151,6 +151,19 @@
 [CDN 回源与CDN 多级缓存原理](https://github.com/pfan123/Articles/issues/77)
 
 [CDN 带宽与上传下载速率关系？](https://github.com/pfan123/Articles/issues/81)
+
+## 计算机基础
+
+[汇编语言入门](https://github.com/pfan123/Articles/issues/82)
+
+[TCP 协议简介](https://github.com/pfan123/Articles/issues/86)
+
+## 流程图 & 架构图
+
+[OmniGraffle 绘制流程图](https://github.com/pfan123/Articles/issues/84)
+
+[九种常用的UML图总结](https://github.com/pfan123/Articles/issues/85)
+
 ### |  方法论与工具
 
 [lerna 和 yarn workspace 的 monorepo 工作流](https://github.com/pfan123/Articles/issues/73)
