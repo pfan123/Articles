@@ -158,7 +158,7 @@
 
 [TCP 协议简介](https://github.com/pfan123/Articles/issues/86)
 
-## 流程图 & 架构图
+## 思维导图 & 流程图 & 架构图
 
 [OmniGraffle 绘制流程图](https://github.com/pfan123/Articles/issues/84)
 
