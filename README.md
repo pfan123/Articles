@@ -61,7 +61,8 @@
 
 ### |  Javascript
 
-- **基础知识** 
+#### **基础知识** 
+
 [Fetch 实现 Abort](https://github.com/pfan123/Articles/issues/68)
 
 [如何避免 JavaScript 长递归导致的堆栈溢出？](https://github.com/pfan123/Articles/issues/50)
@@ -103,16 +104,14 @@
 [JavaScript 事件委托代码片段 question](https://github.com/pfan123/code-snippet/issues/1)
 
 [eval()与new Function()](https://github.com/pfan123/code-snippet/issues/6)
-
-- **内存机制** 
+#### **内存机制** 
 
 [Node.js 内存管理和 V8 垃圾回收机制](https://github.com/pfan123/Articles/issues/56)
 
 [JavaScript的垃圾回收机制](https://github.com/pfan123/Articles/issues/36)
 
 [JavaScript 内存机制](https://github.com/pfan123/code-snippet/issues/23)
-
-- **模块框架**
+#### **模块框架**
 
 [React 核心知识点 -- Virtual Dom 与 Diff](https://github.com/pfan123/Articles/issues/62)
 
