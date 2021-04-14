@@ -13,23 +13,21 @@
 [什么是MTU？为什么MTU值普遍都是1500？](https://github.com/pfan123/Articles/issues/89)
 
 [字符编码 ASCII、URI 、UNICODE、Base64](https://github.com/pfan123/Articles/issues/37)
+
+[理解 WebSocket 原理](https://github.com/pfan123/Articles/issues/80)
+
+[HTTPS 传输协议加密原理分析](https://github.com/pfan123/Articles/issues/55)
+
+[HTTP3](https://github.com/pfan123/Articles/issues/53)
 ## 算法
 
 [十大排序排序算法](https://github.com/pfan123/code-snippet/issues/19)
 
 [算法(algorithms)](https://github.com/pfan123/algorithms)
 
-## 应用协议
-
-[理解 WebSocket 原理](https://github.com/pfan123/Articles/issues/80)
-
-[HTTP3](https://github.com/pfan123/Articles/issues/53)
+## 浏览器相关
 
 [HSTS详解](https://github.com/pfan123/code-snippet/issues/21)
-
-[HTTPS 传输协议加密原理分析](https://github.com/pfan123/Articles/issues/55)
-
-## 浏览器相关
 
 [聚焦 Web 性能指标 TTI](https://github.com/pfan123/Articles/issues/88)
 
