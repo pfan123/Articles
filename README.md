@@ -25,6 +25,8 @@
 
 [算法(algorithms)](https://github.com/pfan123/algorithms)
 
+[JS 简单实现(FIFO 、LRU、LFU)缓存淘汰算法](https://github.com/pfan123/Articles/issues/72)
+
 ## 浏览器相关
 
 [HSTS详解](https://github.com/pfan123/code-snippet/issues/21)
