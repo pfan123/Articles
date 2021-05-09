@@ -41,8 +41,6 @@
 
 [浏览器的基本工作原理](https://github.com/pfan123/Articles/issues/57)
 
-[React Native 与小程序运行机制](https://github.com/pfan123/Articles/issues/61)
-
 [H5直播起航](https://aotu.io/notes/2016/10/09/HTML5-SopCast/)
 
 ## 图形变换
@@ -64,6 +62,9 @@
 
 [Sketch 插件开发实践](https://github.com/pfan123/Articles/issues/48)
 
+[React Native 跨平台思考](https://github.com/pfan123/Articles/issues/96)
+
+[React Native 与小程序运行机制](https://github.com/pfan123/Articles/issues/61)
 ## Javascript
 
 ### | 基础知识
