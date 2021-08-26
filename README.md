@@ -81,9 +81,7 @@
 
 [JavaScript 浮点数运算的精度问题](https://github.com/pfan123/Articles/issues/35)
 
-[JavaScript 大数运算精度问题](https://github.com/pfan123/Articles/issues/78)
-
-[JS 实现两个大数相加？](https://github.com/pfan123/Articles/issues/103)
+[JavaScript 大数运算精度问题，如何实现两个大数相加？](https://github.com/pfan123/Articles/issues/78)
 
 [前端数据缓存方案](https://github.com/pfan123/Articles/issues/33)
 
