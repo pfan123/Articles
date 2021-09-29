@@ -43,6 +43,8 @@
 
 [H5直播起航](https://aotu.io/notes/2016/10/09/HTML5-SopCast/)
 
+[CSR、SSR、NSR、ESR 理清前端渲染方案](https://github.com/pfan123/Articles/issues/104)
+
 ## 图形变换
 
 [CSS 中矩阵变换 matrix()、matrix3d()](https://github.com/pfan123/Articles/issues/45)
