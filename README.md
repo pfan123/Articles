@@ -112,6 +112,9 @@
 [JavaScript 事件委托代码片段 question](https://github.com/pfan123/code-snippet/issues/1)
 
 [eval()与new Function()](https://github.com/pfan123/code-snippet/issues/6)
+
+[JavaScript 模块的循环加载 -- 转载](https://github.com/pfan123/Articles/issues/105)
+
 ### | Javascript 编译
 
 [代码编译 - Babel Compiler](https://github.com/pfan123/Articles/issues/71)
