@@ -6,6 +6,8 @@
 
 ## 计算机基础
 
+[计算机操作系统64位和32位的区别及原理](https://github.com/pfan123/Articles/issues/107)
+
 [汇编语言入门](https://github.com/pfan123/Articles/issues/82)
 
 [TCP 协议简介](https://github.com/pfan123/Articles/issues/86)
