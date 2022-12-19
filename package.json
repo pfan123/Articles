@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "repository": "git@github.com:pfan123/Articles.git",
-  "author": "gaolu11 <768065158@qq.com>",
+  "author": "gluu",
   "license": "MIT",
   "scripts": {
     "diff": "node packages/virtual-dom/index.js"
