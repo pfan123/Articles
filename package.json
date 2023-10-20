@@ -1,6 +1,6 @@
 {
   "name": "blogarticle",
-  "description": "个人文章记录",
+  "description": "个人文章记录，学习实践",
   "version": "1.0.0",
   "main": "index.js",
   "repository": "git@github.com:pfan123/Articles.git",
