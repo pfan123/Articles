@@ -5,6 +5,7 @@
 [前端开发工作流](https://github.com/pfan123/Articles/issues/65)
 
 ## AI
+[anthropics/skills](https://github.com/anthropics/skills)
 
 ## 低代码
 [低代码引擎](https://lowcode-engine.cn/site/docs/guide/quickStart/intro)
