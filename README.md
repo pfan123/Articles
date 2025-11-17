@@ -146,6 +146,8 @@
 
 ### | 模块框架
 
+[前端领域-常见插件设计模式](https://github.com/pfan123/Articles/issues/115)
+
 [依赖注入（DI）和控制反转（IoC）设计思想](https://github.com/pfan123/Articles/issues/114)
 
 [React 核心知识点 -- Virtual Dom 与 Diff](https://github.com/pfan123/Articles/issues/62)
