@@ -18,6 +18,8 @@
 
 [JSON Stream 优化](https://github.com/pfan123/Articles/issues)
 
+[如何实现操作转换（Operational Transformation, OT）？](https://github.com/pfan123/Articles/issues/126)
+
 ## 计算机基础
 
 [计算机操作系统64位和32位的区别及原理](https://github.com/pfan123/Articles/issues/107)
