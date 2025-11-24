@@ -7,8 +7,14 @@
 ## AI
 [anthropics/skills](https://github.com/anthropics/skills)
 
-## 低代码
+## 编辑器
 [低代码引擎](https://lowcode-engine.cn/site/docs/guide/quickStart/intro)
+
+[协同编辑 OT 算法](https://github.com/pfan123/Articles/issues/121)
+
+[编辑器，如何按操作进行设计 undoredo？](https://github.com/pfan123/Articles/issues/123)
+
+[JSON SCHEMA 增量更新方案](https://github.com/pfan123/Articles/issues/122)
 
 ## 计算机基础
 
