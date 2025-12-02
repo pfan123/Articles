@@ -7,6 +7,8 @@
 ## AI
 [anthropics/skills](https://github.com/anthropics/skills)
 
+[使用大模型（本地部署）与调用大模型 API 有啥区别](https://github.com/pfan123/Articles/issues/128)
+
 ## 编辑器
 [低代码引擎](https://lowcode-engine.cn/site/docs/guide/quickStart/intro)
 
